@@ -11,4 +11,7 @@ quantity.  If sufficient quantity is in stock, the user will get a success messa
 the total price like this:
 
 ![customer purchase success](./img/cust_success.png)
-Format: ![Alt Text](url)
+
+If insufficient quantity is in stock, the user will get an error like this:
+
+![customer purchase error](./img/cust_fail.png)
